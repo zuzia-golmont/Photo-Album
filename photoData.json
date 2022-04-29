@@ -1,0 +1,86 @@
+[
+    {
+        "author":"Paula Smith",
+        "description":"Artistic photo showing desk of an Insta photographer.",
+        "likes":1245,
+        "comments":[
+            {
+                "author":"Julia Piggy",
+                "text":"Nice!!"
+            },
+            {
+                "author":"Diane Vamp",
+                "text":"So cool!"
+            }
+        ]
+
+    },
+    {
+        "author":"George Pedro",
+        "description":"A photo of author's significant other..",
+        "likes":824,
+        "comments":[
+            {
+                "author":"David Bowl",
+                "text":"Good lightning"
+            },
+            {
+                "author":"Maya Kong",
+                "text":"Super cute <3"
+            },
+            {
+                "author":"Lillian Bing",
+                "text":"Owwwww"
+            }
+        ]
+    },
+    {
+        "author":"Gabriel Louis",
+        "description":"Nothing more enjoyable than a warm coffee on a rainy day...",
+        "likes":546,
+        "comments":[
+            {
+                "author":"Kinga Frit",
+                "text":"I agree!!"
+            },
+            {
+                "author":"Sam Peng",
+                "text":"So true"
+            },
+            {
+                "author":"Fabian Frisco",
+                "text":"Cappucino or latte?"
+            }
+        ]
+    },
+    {
+        "author":"Peter Paul",
+        "description":"Healthy but tasty dinner on a lazy Sunday.",
+        "likes":1875,
+        "comments":[
+            {
+                "author":"Rosalie Din",
+                "text":"YUMMY"
+            },
+            {
+                "author":"Sean Dabs",
+                "text":"I love chicken"
+            }
+        ]
+    },
+    {
+        "author":"Sandy Fitch",
+        "description":"The cutest creature - say hello to my lovely Flappy!",
+        "likes":1875,
+        "comments":[
+            {
+                "author":"Dexter Ford",
+                "text":"Super cute"
+            },
+            {
+                "author":"Pamela Ricci",
+                "text":"Hello Flappy!!!"
+            }
+        ]
+    }
+]
